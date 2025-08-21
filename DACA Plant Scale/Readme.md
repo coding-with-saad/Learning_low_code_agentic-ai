@@ -78,6 +78,6 @@ It is a **cloud-native, scalable, and multi-cloud deployable architecture** for 
 - Containers are managed by **Kubernetes clusters** for **scaling and resilience**.  
 - **DAPR** provides distributed communication and runtime support.  
 - The system can be **deployed on any major cloud provider**.  
-- Vision: **100M+ users leveraging AI agents**, driving   
+- Vision: **100M+ users leveraging AI agents**, driving  **massive**. 
 
 ---
