@@ -109,18 +109,5 @@ Context-engineered prompts often become:
 - Structured with XML tags and markdown
 - Code-like in appearance
 - Comprehensive scenario coverage
-
----- [1. Explanation](#1-explanation)
-- [1. Explanation](#1-explanation)
-- [2. Key Points](#2-key-points)
-  - [2.1. The Six Essential Components of AI Agents](#21-the-six-essential-components-of-ai-agents)
-    - [2.1.1. **Model**](#211-model)
-    - [2.1.2. **Tools**](#212-tools)
-    - [2.1.3. **Knowledge and Memory**](#213-knowledge-and-memory)
-    - [2.1.4. **Audio and Speech**](#214-audio-and-speech)
-    - [2.1.5. **Guardrails**](#215-guardrails)
-    - [2.1.6. **Orchestration**](#216-orchestration)
-    - [2.1.7. The Burger Analogy](#217-the-burger-analogy)
-  - [2.2. Building AI Agents with Context Engineering](#22-building-ai-agents-with-context-engineering)
-    - [2.2.1. The Role of Context Engineer](#221-the-role-of-context-engineer)
-    - [2.2.2. Prompt Complexity](#222-prompt-complexity)
+- 
+---
