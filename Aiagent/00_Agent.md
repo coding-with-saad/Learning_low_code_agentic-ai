@@ -1,10 +1,10 @@
-### AI Agent
+<h1> AI Agent <h1>
 
-## 0.1. Introduction
+## 1.  Introduction
 
 AI Agent is like a smart helper that uses Artificial Intelligence (AI) to do tasks for you. It can take input, think about it, and then take action.
 
-# 1. Explanation
+# 2. Explanation
 
 An AI Agent is a program that:
 
@@ -23,7 +23,7 @@ A self-driving car that drives safely on its own.
 
 Your JARVIS project that listens, speaks, and does tasks.
 
-# 2. Key Points
+# 3. Key Points
 
 AI Agents are goal-driven (they try to achieve something).
 
