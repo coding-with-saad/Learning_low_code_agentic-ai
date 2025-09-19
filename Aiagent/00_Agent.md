@@ -1,4 +1,4 @@
-### 0.0.1. Agent
+### AI Agent
 
 ## 0.1. Introduction
 
