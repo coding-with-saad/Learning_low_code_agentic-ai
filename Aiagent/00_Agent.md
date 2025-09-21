@@ -109,5 +109,5 @@ Context-engineered prompts often become:
 - Structured with XML tags and markdown
 - Code-like in appearance
 - Comprehensive scenario coverage
-- 
+  
 ---
