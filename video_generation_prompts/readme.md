@@ -405,4 +405,4 @@ Practice with these templates, adapt them to your needs, and develop your own st
 - **Aspect Ratio**: 16:9 widescreen, 9:16 vertical, 1:1 square
 - **Safe Areas**: Ensuring important elements stay in frame
 
-This appendix serves as a reference for understanding and effectively using professional video production terminology in Veo 3 prompts for optimal
+This appendix serves as a reference for understanding and effectively using professional video production terminology in Veo 3 prompts for optimal res
