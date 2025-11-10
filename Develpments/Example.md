@@ -85,4 +85,4 @@ Code is reliable and exactly matches the written plan, but it takes more time to
 ### 💡 **In short**
 
 * **AI-driven development** is like having a smart assistant write and improve your code.
-* **Spec-driven development** is like building a house exactly from a blueprint — no changes allow
+* **Spec-driven development** is like building a house exactly from a blueprint — no changes allowed
